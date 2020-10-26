@@ -1,2 +1,2 @@
 # React-Apps
-Collection of React apps
+Blog-like app
